@@ -18,5 +18,5 @@ Als technische Verantwortliche der Einsatzleitzentrale umfasst unser Aufgabenspe
 
 ### Unsere Vorzeige-Repositorys
 
-- https://github.com/Schutz-Rettung-Zurich/json-archive
+- https://github.com/Schutz-Rettung-Zurich/elz-data
 - https://github.com/Schutz-Rettung-Zurich/srz-edi
