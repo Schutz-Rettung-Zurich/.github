@@ -15,7 +15,3 @@ Die Einsatzleitzentrale von Schutz & Rettung Zürich ist seit November 2012 am S
 ## Unsere Arbeit
 
 Als technische Verantwortliche der Einsatzleitzentrale umfasst unser Aufgabenspektrum eine ganze Reihe von Aufgaben mit Geodaten und Datenmanagement. Nebst der ganzen Applikationsbetreuung des Einsatzleitsystems bedienen wir auch diverse Schnittstellen von externen Partnern. Im Zuge dessen, haben wir immer mehr mit offenen Daten zu tun, beziehen diese und geben diese aber auch wieder zurück.
-
-### Unsere Vorzeige-Repositorys
-
-- https://github.com/Schutz-Rettung-Zurich/elz-data
