@@ -1,4 +1,4 @@
-![https://github.com/Schutz-Rettung-Zurich/json-data/raw/main/logo_SRZ.png](https://github.com/Schutz-Rettung-Zurich/json-data/raw/main/logo_SRZ.png)
+![https://github.com/Schutz-Rettung-Zurich/.github/blob/main/profile/logo_SRZ.png](https://github.com/Schutz-Rettung-Zurich/.github/blob/main/profile/logo_SRZ.png)
 
 # Schutz und Rettung Zürich
 
